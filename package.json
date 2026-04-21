@@ -1,0 +1,14 @@
+{
+  "name": "cypressinit",
+  "version": "1.0.0",
+  "description": "Repositório para compartilhamento do código PRONTO para iniciar sua vida no Cypress (mais atual até hoje).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.14.0"
+  }
+}
